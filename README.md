@@ -15,7 +15,6 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://www.pngwing.com/ru/free-png-czgek?raw=true" width="452" height="700" />
   
 **Languages and Tools:**  
 
