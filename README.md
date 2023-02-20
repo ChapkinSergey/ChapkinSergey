@@ -15,7 +15,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="[https://raw.githubusercontent.com/kalashnikov-ulmic/kalashnikov-ulmic/main/%D0%A3%D1%87%D1%83%D1%81%D1%8C%20%D0%BD%D0%B0%20Slurm.png](https://kartinkin.net/uploads/posts/2022-02/1645881997_75-kartinkin-net-p-samurai-kartinki-80.jpg)?raw=true" width="400" height="280" />
+<img align="right" alt="GIF" src="https://kartinkin.net/uploads/posts/2022-02/1645881997_75-kartinkin-net-p-samurai-kartinki-80.jpg?raw=true" width="400" height="280" />
   
 **Languages and Tools:**  
 
